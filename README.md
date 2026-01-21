@@ -66,23 +66,6 @@ drive/
     
     └── package.json
 
-# 🗄 Database
-
-CREATE TABLE files (
-
-    id BIGINT AUTO_INCREMENT PRIMARY KEY,
-    
-    file_name VARCHAR(255),
-    
-    file_type VARCHAR(50),
-    
-    file_size BIGINT,
-    
-    upload_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    
-    file_path VARCHAR(500)
-    
-);
 
 # 🔍 API Endpoints
 
