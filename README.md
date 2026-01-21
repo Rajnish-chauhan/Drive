@@ -2,7 +2,7 @@ Drive - Personal File Storage System
 
 Full-stack file manager with React, Spring Boot & MySQL. Upload, search, download & delete PDF/text files.
 
-✨ Features
+# ✨ Features
 
 File Upload (PDF, TXT)
 
@@ -26,7 +26,7 @@ Build: Maven
 
 Git/GitHub
 
-🚀 Quick Start
+# 🚀 Quick Start
 
 Prerequisites: Java 17+, Node 18+, MySQL 8.0+, Maven 3.8+
 
@@ -52,7 +52,7 @@ Backend: http://localhost:8080
 
 Frontend: http://localhost:3000
 
-📁 Project Structure
+# 📁 Project Structure
 drive/
 ├── backend/
 
@@ -115,7 +115,7 @@ Size limits
 SQL injection protection
 
 
-🔗 GitHub Instructions
+## 🔗 GitHub Instructions
 
 1. Clone Repository
 
