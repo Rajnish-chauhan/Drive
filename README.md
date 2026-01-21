@@ -14,7 +14,7 @@ File Delete
 
 Responsive UI
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Frontend: React, HTML, CSS, JS
 
@@ -66,7 +66,7 @@ drive/
     
     └── package.json
 
-🗄 Database
+# 🗄 Database
 
 CREATE TABLE files (
 
@@ -84,7 +84,7 @@ CREATE TABLE files (
     
 );
 
-🔍 API Endpoints
+# 🔍 API Endpoints
 
 | Method | Endpoint                    | Description   |
 | ------ | --------------------------- | ------------- |
@@ -94,7 +94,7 @@ CREATE TABLE files (
 | GET    | /api/files/{id}/download    | Download file |
 | DELETE | /api/files/{id}             | Delete file   |
 
-🌐 Future Plans
+# 🌐 Future Plans
 
 DOCX, PPTX, JPG, PNG support
 
@@ -127,7 +127,7 @@ cd drive
 
 cd backend
 
-# Create MySQL DB
+Create MySQL DB
 
 mysql -u root -p
 
@@ -135,7 +135,7 @@ CREATE DATABASE drive_db;
 
 exit
 
-# Update src/main/resources/application.properties with DB credentials
+Update src/main/resources/application.properties with DB credentials
 
 mvn spring-boot:run
 
