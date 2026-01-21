@@ -26,31 +26,6 @@ Build: Maven
 
 Git/GitHub
 
-# 🚀 Quick Start
-
-Prerequisites: Java 17+, Node 18+, MySQL 8.0+, Maven 3.8+
-
-Backend:
-
-git clone https://github.com/yourusername/drive.git
-
-cd drive/backend
-
-Create DB: CREATE DATABASE drive_db;
-
-mvn spring-boot:run
-
-Frontend:
-
-cd frontend
-
-npm install
-
-npm start
-
-Backend: http://localhost:8080
-
-Frontend: http://localhost:3000
 
 # 📁 Project Structure
 drive/
@@ -98,3 +73,28 @@ Size limits
 SQL injection protection
 
 
+# 🚀 Quick Start
+
+Prerequisites: Java 17+, Node 18+, MySQL 8.0+, Maven 3.8+
+
+Backend:
+
+git clone https://github.com/yourusername/drive.git
+
+cd drive/backend
+
+Create DB: CREATE DATABASE drive_db;
+
+mvn spring-boot:run
+
+Frontend:
+
+cd frontend
+
+npm install
+
+npm start
+
+Backend: http://localhost:8080
+
+Frontend: http://localhost:3000
