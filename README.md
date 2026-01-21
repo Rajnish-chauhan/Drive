@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/drive.git
 
 cd drive/backend
 
-# Create DB: CREATE DATABASE drive_db;
+Create DB: CREATE DATABASE drive_db;
 
 mvn spring-boot:run
 
