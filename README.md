@@ -4,7 +4,7 @@ Full-stack file manager with React, Spring Boot & MySQL. Upload, search, downloa
 
 # ✨ Features
 
-File Upload (PDF, TXT)
+File Upload (Its Support all Type files like .pdf .jpg .png .docs .txt .mp4 etc)
 
 File Search by name
 
