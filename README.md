@@ -12,17 +12,19 @@ File Download
 
 File Delete
 
+File Upload
+
 Responsive UI
 
 # 🛠 Tech Stack
 
-Frontend: React, HTML, CSS, JS
+Frontend: React, HTML, CSS, JS, JSX
 
-Backend: Java 17+, Spring Boot
+Backend: Java 8/21, Spring Boot, Spring Data Jpa
 
 Database: MySQL 8.0
 
-Build: Maven
+Build: Maven,Docker
 
 Git/GitHub
 
