@@ -54,8 +54,6 @@ drive/
 
 # 🌐 Future Plans
 
-DOCX, PPTX, JPG, PNG support
-
 AWS S3/GCP/Azure integration
 
 File sharing
@@ -65,8 +63,6 @@ Folders
 File preview
 
 🔒 Security
-
-File type validation
 
 Size limits
 
